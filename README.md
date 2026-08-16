@@ -1,2 +1,3 @@
 # ML-demo
-Author-Shubham Algat
+Author-Shubham Algat(Department name: Mathematics)
+
